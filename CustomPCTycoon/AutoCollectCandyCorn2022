@@ -1,0 +1,1 @@
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/Pigmester/Roblox/d3b4be3cc52cb4f9d84488cdb4a5d99ea0b594c3/CPCTCandyCornFarm"))()
