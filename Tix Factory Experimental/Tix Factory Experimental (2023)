@@ -8,6 +8,10 @@
 *The menu will not appear in-game UNTIL you click play and initiate your save file
 *Side bonus: Can be placed in autoexec folder. Script will only run/launch in this specific game (script checks for PlaceId)
 
+***There is a freeze upon launching the script. This is normal and is sadly a part of the obfuscation method I use. I will have this fixed soon enough. As much of a "break"
+  as it appears to look like, I promise this is not your client having a meltdown. My best guess is it's Synapse/Other injector working through the decryption process.
+-My scripts are encrypted solely for making reverse engineering a pain. Scripts get stolen and altered all too much these days. I'm sorry for loadstrings otherwise.
+
 __Features__
 -Auto Bake Christmas Resources
 -Auto farm Forgotten Tix
@@ -20,4 +24,5 @@ __Features__
 -Auto Recreate (Does take skip rebirth 0 research into account, and will disable AutoBuy until rebirth 0 is skipped)
 ]]--
 
+--Script:
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Pigmester/Roblox/main/EncryptedCode/TixFactoryExperimentalFarm"))()
