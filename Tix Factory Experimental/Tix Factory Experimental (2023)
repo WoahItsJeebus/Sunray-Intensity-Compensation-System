@@ -6,6 +6,8 @@
   They are not expensive and the payout is worth it if you plan to go far in this game.
 *Some features may be disabled randomly, this is due to maintenance. I will eventually add an indicator to let you know what is under maintenance.
 *The menu will not appear in-game UNTIL you click play and initiate your save file
+*Side bonus: Can be placed in autoexec folder. Script will only run/launch in this specific game (script checks for PlaceId)
+
 __Features__
 -Auto Bake Christmas Resources
 -Auto farm Forgotten Tix
