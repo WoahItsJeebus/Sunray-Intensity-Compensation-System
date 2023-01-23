@@ -18,4 +18,4 @@ __Features__
 -Auto Recreate (Does take skip rebirth 0 research into account, and will disable AutoBuy until rebirth 0 is skipped)
 ]]--
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Pigmester/Roblox/main/EncryptedCode/CPCTCandyCornFarm"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Pigmester/Roblox/main/EncryptedCode/TixFactoryExperimentalFarm"))()
