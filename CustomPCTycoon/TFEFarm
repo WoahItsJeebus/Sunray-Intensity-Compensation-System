@@ -1,0 +1,21 @@
+--[[
+-Created by: Pigmester
+-Auto Updates
+
+*To prevent conflicts and to prevent discovery by developers, please try to use this in a private server.
+  They are not expensive and the payout is worth it if you plan to go far in this game.
+*Some features may be disabled randomly, this is due to maintenance. I will eventually add an indicator to let you know what is under maintenance.
+*The menu will not appear in-game UNTIL you click play and initiate your save file
+__Features__
+-Auto Bake Christmas Resources
+-Auto farm Forgotten Tix
+-Auto farm Rainbow Tix
+-Auto click trees and generator (must be within a certain distance of the generator for generator to take effect)
+-Auto collect nearby Tix
+-Auto click Christmas rocks
+-Auto buy buttons
+-Auto Rebirth
+-Auto Recreate (Does take skip rebirth 0 research into account, and will disable AutoBuy until rebirth 0 is skipped)
+]]--
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Pigmester/Roblox/main/EncryptedCode/CPCTCandyCornFarm"))()
